@@ -1,2 +1,3 @@
 # devops-git
-practice purpose
+practice purpose.
+for demo purpose only
